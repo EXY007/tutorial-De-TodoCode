@@ -2,6 +2,8 @@
 #### practica principiante, ejer2 se usa promp para solicitar numeros y mensajes se muestran con alert(""), saludo.html es mas de lo mismo
 #### con ejemplos de var, let y const donde aprendemos que const no actua solo como constante sino que tambien como let
 
+###### EJER3 es practica de while
+
 ```
 //EJER2
 num1 = prompt("ingrese numero 1");
