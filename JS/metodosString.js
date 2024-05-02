@@ -52,7 +52,6 @@ function fnCambiarColor() {
     const nuevoElemento = document.createElement("div");
     nuevoElemento.textContent = "Nuevo elemento agregado";
     document.body.appendChild(nuevoElemento);
-    
     nuevoElemento.style.color="red"
 
 }
